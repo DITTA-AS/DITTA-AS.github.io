@@ -1,0 +1,11 @@
+p {
+  strong {
+    color: var(--color-primary);
+  }
+}
+
+.text-xl, .text-lg {
+  p {
+    margin-bottom: 1.5rem;
+  }
+}
